@@ -10,20 +10,3 @@ I got inspiration from reading Thomas Frank [impossible list](https://collegeinf
   * Failed this goal graduated with 8.75  
 * ~~Publish a paper in any reputed jornal~~
   * Failed this goal too did not manage to complete a good project given the deadline
-
-# Fitness Goal
-* Do 100 pushups per day
-* Get 6 pack abs
-
-# Travel Goals
-* Go to Japan
-* Go to Mount Everest Peak
-* Go to Marina trench
-
-# Creative endeavours
-* Publish a book
-* Create a blog which has more than 7 billion vists to the sites in total 
-* Start a YouTube channel and have total views of 1 lakh
-
-# Buissiness
-* Establish a company which has a huge social impact(in a positive way) and generate tons of money
