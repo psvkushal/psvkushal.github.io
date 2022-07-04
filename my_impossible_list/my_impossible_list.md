@@ -10,3 +10,7 @@ I got inspiration from reading Thomas Frank [impossible list](https://collegeinf
   * Failed this goal graduated with 8.75  
 * ~~Publish a paper in any reputed jornal~~
   * Failed this goal too did not manage to complete a good project given the deadline
+  * 27 July 2022
+
+# Finacial Goal
+* Earn 50 lacs per annum
