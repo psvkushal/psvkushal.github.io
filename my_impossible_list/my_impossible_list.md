@@ -6,8 +6,10 @@ I got inspiration from reading Thomas Frank [impossible list](https://collegeinf
 
 
 # Academic Goals
-* Graduate from my university (IITM) with above 9.3 GPA
-* Publish a paper in any reputed jornal
+* ~~Graduate from my university (IITM) with above 9.3 GPA~~
+  * Failed this goal graduated with 8.75  
+* ~~Publish a paper in any reputed jornal~~
+  * Failed this goal too did not manage to complete a good project given the deadline
 
 # Fitness Goal
 * Do 100 pushups per day
